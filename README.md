@@ -4,7 +4,7 @@ I am W.M. Supun Randima Wijekoon, currently working as a Software Engineer at th
 
 [![Linkedin Badge](https://img.shields.io/badge/-WijekoonSR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supun-wijekoon-1908b4171/)](https://www.linkedin.com/in/supun-wijekoon-1908b4171/)
 [![Gmail Badge](https://img.shields.io/badge/-supunrandima10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:supunrandima10@gmail.com)](mailto:supunrandima10@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/Wijekoon.SR.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/randima2/)](https://www.facebook.com/randima2/)
+[![Facebook Badge](https://img.shields.io/badge/Supun.Randima-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/randima2/)](https://www.facebook.com/randima2/)
 
 
 ## ⚡ Technologies
