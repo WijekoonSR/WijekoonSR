@@ -42,4 +42,8 @@ Think the Logic behind Each line
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WijekoonSR&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WijekoonSR&hide=TeX&layout=compact)
 
+![Snake animation](https://github.com/{{WijekoonSR}}/{{WijekoonSR}}/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=WijekoonSR.WijekoonSR)
