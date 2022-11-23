@@ -45,5 +45,4 @@ Think the Logic behind Each line
 ![Snake animation](https://github.com/{{WijekoonSR}}/{{WijekoonSR}}/blob/output/github-contribution-grid-snake.svg)
 
 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=WijekoonSR.WijekoonSR)
