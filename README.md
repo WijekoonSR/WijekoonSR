@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi Devs 👋
 
-I am W.M. Supun Randima Wijekoon, currently working as a Software Engineer at the [Beta Launch](https://www.betalaunch.io/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Supun Randima Wijekoon, currently working as a Software Engineer at the [Beta Launch](https://www.betalaunch.io/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+
+```bash
+Think the Logic Behind Each Line 
+```
 
 [![Linkedin Badge](https://img.shields.io/badge/-WijekoonSR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supun-wijekoon-1908b4171/)](https://www.linkedin.com/in/supun-wijekoon-1908b4171/)
 [![Gmail Badge](https://img.shields.io/badge/-supunrandima10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:supunrandima10@gmail.com)](mailto:supunrandima10@gmail.com)
@@ -8,6 +12,7 @@ I am W.M. Supun Randima Wijekoon, currently working as a Software Engineer at th
 
 
 ## ⚡ Technologies
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -32,6 +37,7 @@ I am W.M. Supun Randima Wijekoon, currently working as a Software Engineer at th
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WijekoonSR&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WijekoonSR&hide=TeX&layout=compact)
