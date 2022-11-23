@@ -8,7 +8,7 @@ I am W.M. Supun Randima Wijekoon, currently working as a Software Engineer at th
  -->
 
 ## ⚡ Technologies
-
+<!-- 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -34,4 +34,4 @@ I am W.M. Supun Randima Wijekoon, currently working as a Software Engineer at th
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar) -->
