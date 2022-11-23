@@ -3,7 +3,7 @@
 I am Supun Randima Wijekoon, currently working as a Software Engineer at the [Beta Launch](https://www.betalaunch.io/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 ```bash
-Think the Logic Behind Each Line 
+Think the Logic behind Each line 
 ```
 
 [![Linkedin Badge](https://img.shields.io/badge/-WijekoonSR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supun-wijekoon-1908b4171/)](https://www.linkedin.com/in/supun-wijekoon-1908b4171/)
