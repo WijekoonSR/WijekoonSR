@@ -12,6 +12,7 @@ I am W.M. Supun Randima Wijekoon, currently working as a Software Engineer at th
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
