@@ -1,4 +1,4 @@
-### Hi Devs 👋
+> ## Hi Devs 👨‍💻👋
 
 I am Supun Randima Wijekoon, currently working as a Software Engineer at the [Beta Launch](https://www.betalaunch.io/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
